@@ -1,6 +1,6 @@
 # Site settings
 course_name: MAGT481308: Optimization Theory and Algorithm
-course_description: "To be updated."
+course_description: "To update."
 course_semester: "Spring 2021"
 
 baseurl: "/opt-spring-2021" # the subpath of your site, e.g. /blog/
