@@ -8,7 +8,7 @@ url: "http://som-course.github.io/" # the base hostname & protocol for your site
 
 schoolname: "som-xjtu"
 schoolurl: "https://som.xjtu.edu.cn"
-twitter_username: username
+# twitter_username: username
 
 address: |
     School of Management
