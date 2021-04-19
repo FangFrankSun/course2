@@ -1,6 +1,6 @@
 # Site settings
-course_name: Optimization Theory and Algorithm
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
+course_name: MAGT481308: Optimization Theory and Algorithm
+course_description: "To be updated."
 course_semester: "Spring 2021"
 
 baseurl: "/opt-spring-2021" # the subpath of your site, e.g. /blog/
