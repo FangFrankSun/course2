@@ -8,5 +8,7 @@ Optimization is a special field that is build on three interwined pillars:
 
 
 
-**Optimization = Model + Algorithm + Theory**
+**Optimization = Modeling + Algorithm + Theory**
+
+
 
