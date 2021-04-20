@@ -1,7 +1,16 @@
 # Site settings
 course_name: Optimization Theory and Algorithm
-course_description: "To update."
-course_semester: "Spring 2021"
+course_description: "Optimization is a special field that is build on three
+three interwined pillars:
+  - **Models** give rize to an optimization problem.
+  - **Algorithms** solve the optimization probelm.
+  - **Theoretical foundations** support the algorithms and models.
+This course is to present the basic theories and algorithms in optimization fields
+for undergraduate students at School of Management, Xi'an Jiaotong University. The
+aim is to give students a thorough understanding of how to constructe algorithms for solving the
+optimization problems, and how to constructe theories to analyze the optimization problems and corresponding algorithms.
+"
+course_semester: "Spring and Fall 2021"
 
 baseurl: "/opt-spring-2021" # the subpath of your site, e.g. /blog/
 url: "http://som-course.github.io/" # the base hostname & protocol for your site
@@ -12,8 +21,7 @@ schoolurl: "https://som.xjtu.edu.cn"
 
 address: |
     School of Management
-    Xi'an
-    People's Republic of China
+    Xi'an Jiaotong University
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
 
