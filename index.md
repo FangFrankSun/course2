@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-Optimization is a special field that is build on three interwined pillars:
+Optimization is a special field that is built on three interwined pillars:
   - **Models** give rise to optimization problems.
   - **Algorithms** solve optimization probelms.
   - **Theoretical foundations** support algorithms and models.
