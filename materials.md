@@ -19,7 +19,7 @@ permalink: /materials/
 
 - [Python for Beginners](https://www.python.org/about/gettingstarted/)
 - [Python Cheatsheet](https://www.datacamp.com/community/data-science-cheatsheets)
-- [Python数据科学实践](https://item.jd.com/12899568.html) by 常象宇，曾智亿，李春艳，程茜
+- [Python数据科学实践](https://item.jd.com/12899568.html) by 常象宇，曾智亿，李春艳，程茜著
 - [SciPy Tutorial](https://docs.scipy.org/doc/scipy-1.2.0/reference/tutorial/)
 - [NumPy Quickstart Tutorial](https://docs.scipy.org/doc/numpy-1.15.4/user/quickstart.html)
 
