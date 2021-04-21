@@ -13,7 +13,7 @@ Alan Turing and Noam Chomsky: Very Famous Book
 ## Additional Course Materials
 
 * If you are not familiar with Python programming, use any online tutorial to get a handle of it.
-* [Material #1](/_Tex_temp/Tex_temp.zip): An example of course note.
+* [Material #1](http://www.example.com/): how a computer chess player thinks!
 * [Material #2](http://www.example.com/): how a computer chess player thinks!
 * [Material #3](http://www.example.com/): how a computer chess player thinks!
 * [Material #4](http://www.example.com/): how a computer chess player thinks!
