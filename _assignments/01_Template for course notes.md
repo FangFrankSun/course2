@@ -9,7 +9,7 @@ solutions:
 # attachment: /static_files/assignments/asg.zip
 # solutions: /static_files/assignments/asg_solutions.pdf
 due_event: 
-    type: Expired
+    type: due
     date: 2021-04-21T11:23:00+08:00
     description: 'Template for course notes.'
 ---
