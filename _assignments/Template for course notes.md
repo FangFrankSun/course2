@@ -10,7 +10,7 @@ solutions:
 # solutions: /static_files/assignments/asg_solutions.pdf
 due_event: 
     type: Expired
-    date: 2021-04-21T11:23:00+8:00
+    date: 2021-04-21T11:23:00
     description: 'Template for course notes.'
 ---
 This is a sample assignment.
