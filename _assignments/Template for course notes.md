@@ -3,7 +3,7 @@ type: assignment
 date: 2020-04-21T11:23:00+8:00
 title: 'Template for course notes is here!'
 pdf: /static_files/presentations/Tex_temp/template.pdf
-zip: /static_files/presentations/Tex_temp/Tex_temp.zip
+attachment: /static_files/presentations/Tex_temp/Tex_temp.zip
 # pdf: /static_files/assignments/asg.pdf
 # attachment: /static_files/assignments/asg.zip
 # solutions: /static_files/assignments/asg_solutions.pdf
