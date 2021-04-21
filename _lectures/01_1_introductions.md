@@ -1,9 +1,9 @@
 ---
 type: lecture
-date: 2021-04-21T8:00:00+8:00
-title: Testing Lecture
+date: 2021-04-27T8:00:00+8:00
+title: Introduction
 tldr: "Short text to discribe what this lecture is about."
-thumbnail: /static_files/presentations/lec.jpg
+thumbnail: /_images/pp/intro.jpeg
 links: 
     - url: /static_files/presentations/lec.zip
       name: notes
