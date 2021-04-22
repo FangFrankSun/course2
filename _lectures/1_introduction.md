@@ -5,7 +5,7 @@ title: Lecture 1: Introduction
 thumbnail: /_images/pp/intro.jpeg
 links: 
     - url: https://XXXXXX.com
-      name: slides
+    - name: slides
 
 ---
 **Suggested Readings:**
