@@ -4,13 +4,13 @@ date: 2021-04-27T8:00:00+8:00
 title: Lecture 1: Introduction
 thumbnail: /_images/pp/intro.jpeg
 links: 
-    - url: https://google.com
+    - url: https://XXXXXX.com
       name: slides
 
 ---
 **Suggested Readings:**
 
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
+- [LaTex Materials](https://som-course.github.io/opt-spring-2021/materials/)
+- Section 1.1 and 1.5 of [Liu et al.](http://bicmr.pku.edu.cn/~wenzw/optbook/opt1.pdf)
 
 

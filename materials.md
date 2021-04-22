@@ -22,3 +22,11 @@ permalink: /materials/
 * [SciPy Tutorial](https://docs.scipy.org/doc/scipy-1.2.0/reference/tutorial/)
 * [NumPy Quickstart Tutorial](https://docs.scipy.org/doc/numpy-1.15.4/user/quickstart.html)
 
+# LaTeX
+
+- [MacTeX](https://www.tug.org/mactex/)
+- [CTeX](http://www.ctex.org/HomePage)
+- [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+- [Use Overleaf](https://www.overleaf.com/learn/how-to/Creating_a_document_in_Overleaf)
+- [TeXStudio](https://www.texstudio.org/): Suggestion IDE
+
