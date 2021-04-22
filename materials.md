@@ -6,7 +6,7 @@ permalink: /materials/
 
 ## Suggested Text Book
 
-* [Convex Optimization](https://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) by [Stephen Boyd](http://www.stanford.edu/~boyd/) and [Lieven Vandenberghe](http://www.ee.ucla.edu/~vandenbe/): a very famaous book.
+* [Convex Optimization](https://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) by [Stephen Boyd](http://www.stanford.edu/~boyd/) and [Lieven Vandenberghe](http://www.ee.ucla.edu/~vandenbe/): a very famous book.
 * [最优化：建模、算法与理论](http://bicmr.pku.edu.cn/~wenzw/optbook/opt1.pdf) by 刘浩洋、户将、李勇锋、文再文编著.
 
 # R 
