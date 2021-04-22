@@ -13,4 +13,4 @@ due_event:
     date: 2021-04-28T12:00:00+08:00
     description: 'Master LaTeX Template for Course Notes.'
 ---
-This is a sample assignment.
+This is a sample assignment. 
