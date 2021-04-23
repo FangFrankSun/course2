@@ -7,6 +7,8 @@ thumbnail: /_images/pp/intro.jpeg
 links: 
     - url: https://XXXXXX.com
       name: slides
+	- url: https://XXXXXX.com
+      name: note
 
 ---
 **Suggested Readings:**
