@@ -5,7 +5,7 @@ title: Lecture 1 Introduction
 tldr: introduction lecture
 thumbnail: /_images/pp/intro.jpeg
 links: 
-    - url: https://XXXXXX.com
+    - url: /static_files/presentations/Lecture 1.pdf
       name: slides
     - url: https://XXXXXX.com
       name: notes
