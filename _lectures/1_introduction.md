@@ -7,7 +7,7 @@ thumbnail: /_images/pp/intro.jpeg
 links: 
     - url: /static_files/presentations/Lecture 1.pdf
       name: slides
-    - url: https://XXXXXX.com
+    - url: /static_files/Notes/lecture1.pdf
       name: notes
 
 ---
