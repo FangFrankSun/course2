@@ -5,7 +5,7 @@ title: Lecture 2 Modeling in Optimization
 tldr: Least Squares, MLE, Transportation Problem, Management Decision Tree Analysis, DL, RL
 thumbnail: /_images/pp/modeling.jpeg
 links: 
-    - url: https://XXXXXX.com
+    - url: /static_files/Notes/lecture2.pdf
       name: notes
 
 ---
