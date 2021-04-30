@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2021-04-30T8:00:00+11:00
+date: 2021-04-30T8:00:00+8:00
 title: Lecture 2 Modeling in Optimization
 tldr: Least Squares, MLE, Transportation Problem, Management Decision Tree Analysis, DL, RL
 thumbnail: /_images/pp/modeling.jpeg
