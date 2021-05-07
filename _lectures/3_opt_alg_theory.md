@@ -5,7 +5,7 @@ title: Lecture 3 Algorithm and Theory in Optimization
 tldr: Management Decision Tree Analysis, RL, Algorithm and Theory Examples
 thumbnail: /_images/pp/lec3.jpeg
 links: 
-    - url: /static_files/Notes/XXXXX.pdf
+    - url: /static_files/Notes/lecture3.pdf
       name: notes
 
 ---
