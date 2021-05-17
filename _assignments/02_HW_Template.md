@@ -10,7 +10,7 @@ pdf: /static_files/HW/HW2/HW2.pdf
 # solutions: /static_files/assignments/asg_solutions.pdf
 due_event: 
     type: due
-    date: 2021-05-18T10:00:00+08:00
+    date: 2021-05-21T10:00:00+08:00
     description: 'HW2 Due.'
 ---
 Keep going.
