@@ -10,7 +10,7 @@ attachment: /static_files/HW/HW4/readme.pdf
 # solutions: /static_files/assignments/asg_solutions.pdf
 due_event: 
     type: due
-    date: 2021-06-011T10:00:00+08:00
+    date: 2021-06-11T10:00:00+08:00
     description: 'HW4 Due.'
 ---
 Keep going.
