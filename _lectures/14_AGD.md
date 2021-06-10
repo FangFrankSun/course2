@@ -5,7 +5,7 @@ title: Lecture 14 Unconstrained Optimization-Accelerated Gradient Descent
 tldr: Accelerated Gradient Descent
 thumbnail: /_images/pp/agd.jpeg
 links: 
-    - url: /static_files/Notes/XXXXX.pdf
+    - url: /static_files/Notes/lecture14.pdf
       name: notes
 
 ---
