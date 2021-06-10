@@ -11,6 +11,6 @@ links:
 ---
 **Suggested Readings:**
 
-- Section 8.2 and of [Liu et al.](http://bicmr.pku.edu.cn/~wenzw/optbook/opt1.pdf)
+- Section 8.2 of [Liu et al.](http://bicmr.pku.edu.cn/~wenzw/optbook/opt1.pdf)
 
 
