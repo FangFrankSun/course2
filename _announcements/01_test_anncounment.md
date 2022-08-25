@@ -1,4 +1,4 @@
 ---
-date: 2021-04-18T10:00:00+8:00
+date: 2022-09-05T10:00:00+8:00
 ---
-New course in Spring 2021 is comming soon.
+New course in Fall 2022 is comming soon.
