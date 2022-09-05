@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2022-09-04T8:00:00+8:00
+date: 2022-09-05T8:00:00+8:00
 title: Lecture 1 Introduction and Review I
 tldr: introduction lecture
 thumbnail: /_images/pp/intro.jpeg
