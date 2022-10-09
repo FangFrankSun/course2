@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-10-10T8:00:00+8:00
-title: Lecture 8 Stochastic Gradient Descent II
+title: Lecture 9 Stochastic Gradient Descent II
 tldr: SGD
 thumbnail: /_images/pp/sgd.png
 links: 
