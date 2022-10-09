@@ -9,7 +9,7 @@ solutions:
 # solutions: /static_files/assignments/asg_solutions.pdf
 due_event: 
     type: due
-    date: 2022-10-21T8:00:00+08:00
+    date: 2022-10-20T8:00:00+08:00
     description: 'PGD, Mirror Descent, SGD and SVRG'
 ---
 Find your solutions.
