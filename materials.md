@@ -31,6 +31,8 @@ permalink: /materials/
 - [Use Overleaf](https://www.overleaf.com/learn/how-to/Creating_a_document_in_Overleaf)
 - [TeXStudio](https://www.texstudio.org/): Suggested IDE
 
+
+<!--
 # HW Implementation
 - [Reference Implementation](https://github.com/som-course/opt-fall-2022/raw/master/static_files/HW/reference%20implementation.zip)
-
+-->
